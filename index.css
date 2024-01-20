@@ -1,0 +1,15 @@
+[aria-current]{
+    font-weight: bold;
+  }
+table{
+border-color: rgb(235, 237, 137);
+}
+thead th{
+  color: rgb(241, 239, 220);
+}
+tr th:first-child{
+  color: rgb(235, 246, 73);
+}
+td{
+  color: rgb(212, 246, 246);
+}
